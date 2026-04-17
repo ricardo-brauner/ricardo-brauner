@@ -30,11 +30,11 @@
 ---
 
 ## 📈 What I Focus On
-* 🎓 Estudante de Desenvolvimento de Software na ATEC
-* 🖥️ Aprendizagem em C# & Windows Forms
-* 🐍 Backend Development com Python
-* 🗄️ Bases de Dados SQL
-* 🌐 Desenvolvimento Web (HTML/CSS/JS)
+* 🎓 Software Development Student at **ATEC - Academia de Formação**
+* 🖥️ C# & Windows Forms Development
+* 🐍 Backend Development with Python
+* 🗄️ SQL Database Management
+* 🌐 Web Development (HTML/CSS/JS)
 
 ---
 
