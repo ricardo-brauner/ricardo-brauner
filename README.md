@@ -1,7 +1,7 @@
 # Hello World! 👋
 
 ## I'm Ricardo Brauner
-**Aspiring Software Developer**
+**Aspiring Software Developert**
 
 ---
 
@@ -24,7 +24,7 @@
 ### 🛠️ Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github" />
+    <img src="https://skillicons.dev/icons?i=idea,visualstudio,vscode,git,github" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 * 🎓 Software Development Student at **ATEC - Academia de Formação**
 * 🖥️ C# & Windows Forms Development
 * 🐍 Backend Development with Python
-* ☕ Java Programming
+* ☕ Java Programming (IntelliJ IDEA)
 * 🗄️ SQL Database Management
 * 🌐 Web Development (HTML/CSS/JS)
 
