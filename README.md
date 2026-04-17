@@ -2,9 +2,6 @@
 
 ## I'm Ricardo Brauner
 **Aspiring Software Developert**
-
-Em constante aprendizagem, focado no desenvolvimento de competências em arquitetura de sistemas e novas tecnologias.
-
 ---
 
 ## 🚀 Learning Stack
