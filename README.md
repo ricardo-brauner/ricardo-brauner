@@ -42,5 +42,5 @@ Em constante aprendizagem, focado no desenvolvimento de competências em arquite
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=333333&height=100&section=footer" />
 </p>
