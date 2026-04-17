@@ -1,7 +1,8 @@
 # Hello World! 👋
 
 ## I'm Ricardo Brauner
-**Aspiring Software Developert**
+**Aspiring Software Developer**
+
 ---
 
 ## 🚀 Learning Stack
@@ -9,7 +10,7 @@
 ### 🖥️ Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=cs,py,java,js,html,css" />
   </a>
 </p>
 
@@ -33,6 +34,7 @@
 * 🎓 Software Development Student at **ATEC - Academia de Formação**
 * 🖥️ C# & Windows Forms Development
 * 🐍 Backend Development with Python
+* ☕ Java Programming
 * 🗄️ SQL Database Management
 * 🌐 Web Development (HTML/CSS/JS)
 
