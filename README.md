@@ -1,5 +1,3 @@
-# Hello World! 👋
-
 ## I'm Ricardo Brauner
 **Aspiring Software Developert**
 
