@@ -22,8 +22,9 @@
 ### 🛠️ Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,visualstudio,vscode,git,github,docker,datagrip" />
+    <img src="https://skillicons.dev/icons?i=idea,visualstudio,vscode,git,github,docker" />
   </a>
+  <img src="https://img.shields.io/badge/-DataGrip-1f232a?style=for-the-badge&logo=datagrip&logoColor=white" style="border-radius: 10px; margin-left: 4px;" height="50" />
 </p>
 
 ---
