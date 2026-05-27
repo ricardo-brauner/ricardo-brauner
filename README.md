@@ -22,7 +22,7 @@
 ### 🛠️ Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,visualstudio,vscode,git,github,datagrip,docker" />
+    <img src="https://skillicons.dev/icons?i=idea,visualstudio,vscode,git,github,docker,datagrip" />
   </a>
 </p>
 
