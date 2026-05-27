@@ -6,10 +6,14 @@
 ## 🚀 Learning Stack
 
 ### 🖥️ Languages
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,py,java,js,html,css" />
-  <img src="https://img.shields.io/badge/-Windows%20Forms-1f232a?style=for-the-badge&logo=dotnet&logoColor=512BD4" style="border-radius: 10px; margin-left: 4px; vertical-align: top;" height="48" />
-</p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,py,java,js,html,css" />
+  </a>
+</p> 
+
+
 
 ### ⚙️ Frameworks & Databases
 <p align="left">
