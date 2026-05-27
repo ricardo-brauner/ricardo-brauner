@@ -20,9 +20,10 @@
 </p>
 
 ### 🛠️ Tools
+### 🛠️ Tools
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,visualstudio,vscode,git,github,docker,dg" />
+  <a href="https://devicons.vercel.app">
+    <img src="https://devicons.vercel.app/api/icons?i=idea,visualstudio,vscode,git,github,docker,datagrip&perline=14" />
   </a>
 </p>
 
