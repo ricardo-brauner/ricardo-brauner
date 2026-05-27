@@ -15,7 +15,7 @@
 ### ⚙️ Frameworks & Databases
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,mysql,sqlite,mongodb" />
+    <img src="https://skillicons.dev/icons?i=dotnet,mysql,mongodb" />
   </a>
 </p>
 
