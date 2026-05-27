@@ -1,5 +1,5 @@
 ## I'm Ricardo Brauner
-**Aspiring Software Developert**
+**Aspiring Software Developer**
 
 ---
 
