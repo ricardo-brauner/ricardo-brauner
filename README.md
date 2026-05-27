@@ -20,11 +20,10 @@
 </p>
 
 ### 🛠️ Tools
-### 🛠️ Tools
 <p align="left">
-  <a href="https://devicons.vercel.app">
-    <img src="https://devicons.vercel.app/api/icons?i=idea,visualstudio,vscode,git,github,docker,datagrip&perline=14" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=idea,visualstudio,vscode,git,github" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" style="background-color: #1a1a1a; padding: 4px; border-radius: 10px; margin-left: 4px;" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" width="48" height="48" style="background-color: #1a1a1a; padding: 4px; border-radius: 10px; margin-left: 4px;" alt="DataGrip" />
 </p>
 
 ---
